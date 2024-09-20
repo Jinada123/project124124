@@ -1,0 +1,2 @@
+key = "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"
+token = "7920689988:AAEkByvkKUR7CFStwBL_4xrcchih3Xaaa_k"
